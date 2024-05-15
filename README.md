@@ -1,1 +1,1 @@
-This is to check jinkins job
+This is to check jenkins job
